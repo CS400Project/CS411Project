@@ -2,7 +2,10 @@
 
 Repo for our CS411 Project (we'll change our name later)
 
-## Restaurant User Story Doc    
+## Tech Stack Notes Doc
+https://docs.google.com/document/d/1OhjuYxrD6JZGZHCpv7J4jYThFM1iRUofFBHiY2BjFcs/edit?usp=sharing
+
+## Restaurant User Story Doc
 
 https://docs.google.com/spreadsheets/d/1SV9auCjPqvvNQlSyIpvtclEl3aB6lnPRmdkE8wywKOg/edit?usp=sharing
 
