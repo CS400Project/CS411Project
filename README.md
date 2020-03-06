@@ -2,7 +2,7 @@
 
 Repo for our CS411 Project (we'll change our name later)
 
-## Restaurant User Story Doc    
+## Restaurant User Story Estimation Doc    
 
 https://docs.google.com/spreadsheets/d/1SV9auCjPqvvNQlSyIpvtclEl3aB6lnPRmdkE8wywKOg/edit?usp=sharing
 
