@@ -2,6 +2,10 @@
 
 Repo for our CS411 Project (we'll change our name later)
 
+## Prototype API Tech Stack Application
+
+https://docs.google.com/document/d/1gHSLr5KMDzN0hGvAHWXQNHq7RtDLcHBCc1Kq_EmHIHk/edit?usp=sharing
+
 ## Tech Stack Doc
 
 https://docs.google.com/document/d/1OhjuYxrD6JZGZHCpv7J4jYThFM1iRUofFBHiY2BjFcs/edit?usp=sharing
