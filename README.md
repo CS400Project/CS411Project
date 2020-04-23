@@ -2,6 +2,14 @@
 
 Repo for our CS411 Project (we'll change our name later)
 
+## Team Assignment #4 (Database and Cache)
+
+https://docs.google.com/document/d/1_OSs1N9z3lZZb8c8NojA8DGnkHWG4g5aLARrQPp3x5g/edit?usp=sharing
+
+## Team Assignment #5 (Test Plan)
+
+https://docs.google.com/document/d/1o8q-tR7FBDlgYs_XcWGr928ULF-2bW8vtNW0gSlBjIc/edit?usp=sharing
+
 ## Prototype API Tech Stack Application
 
 https://docs.google.com/document/d/1gHSLr5KMDzN0hGvAHWXQNHq7RtDLcHBCc1Kq_EmHIHk/edit?usp=sharing
