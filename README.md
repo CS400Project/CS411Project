@@ -1,6 +1,6 @@
 # CS411Project
 
-Repo for our CS411 Project (we'll change our name later)
+Repo for our CS411 Project - Netflix Binge App
 
 ## Team Assignment #4 (Database and Cache)
 
@@ -25,6 +25,9 @@ https://docs.google.com/spreadsheets/d/1SV9auCjPqvvNQlSyIpvtclEl3aB6lnPRmdkE8wyw
 ## Brainstorming Google Doc
 
 https://docs.google.com/document/d/15Ordtu9nLwo3UFawDizgnpu_ezqepm3wlAwB-AT6x_k/edit?usp=sharing
+
+## Our actual project: Netflix TV Show Binge
+With the Coronavirus pandemic forcing everyone into their homes in isolation, many people have found a ton of time on their hands. Having so much extra time, many people have turned to Netflix to help pass the time by binge watching TV shows on Netflix. TV shows, however, can be a long investment of time and if it's not a good show, it could be a lot of wasted time. Often times, when viewers want to pick a new show, they will want to check out user ratings to determine the quality and the binge time to gauge how long (or how short) they can enjoy the show before picking. Unfortunately, Netflix does not provide times for how long it would take to binge watch a show or really user ratings. As a result, we propose making an application that combines a Netflix API and the TMDB API. The Netflix API will obviously be pulling TV shows available on Netflix. Meanwhile, the TMDB API will pull average user ratings of each Netflix available TV show and will provide us with the run time for the show. Our application will then provide both TV shows, average show ratings, and run times for each show.
 
 ## Project Idea: Downtime
 
