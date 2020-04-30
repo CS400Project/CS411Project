@@ -1,8 +1,12 @@
 # CS411Project
 
-Repo for our CS411 Project - Netflix Binge App
+Repo for our CSd411 Project - Netflix Binge App
 
-## Team Assignment #4 (Database and Cache)
+## Link to Actual Project Code lol
+
+https://github.com/SikandAlex/NetflixBinge
+
+## Team Assignment4 (Database and Cache)
 
 https://docs.google.com/document/d/1_OSs1N9z3lZZb8c8NojA8DGnkHWG4g5aLARrQPp3x5g/edit?usp=sharing
 
